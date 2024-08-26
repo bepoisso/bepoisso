@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benjamin-poisson" alt="benjamin-poisson" /></a> </p>
 
+- 👨‍💻 All of my 42 projecs are on **my [GitHub repos](https://github.com/Benjamin-poisson?tab=repositories)**
+
 - 🔭 I’m currently working on [42-Get_next_line](https://github.com/Benjamin-poisson/42-get_next_line)
 
 - 🌱 I’m currently learning **C**
 
-- 💬 Ask me about **42-Pool**
+- 💬 Ask me about **42-Piscine**
 
 - 📫 How to reach me **bepoisso@student.42perpignan.fr**
 
