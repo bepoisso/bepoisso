@@ -40,12 +40,13 @@
 
 ###
 <br>
-<br>
-<br>
 
+
+<br>
 <p align="center" style="margin: 10; padding: 0; text-align: center;">
-  <img src="https://c.tenor.com/mc9-3cypZEYAAAAC/tenor.gif" height="5" style="border: none; margin: 0; padding: 0;"><img src="https://c.tenor.com/mc9-3cypZEYAAAAC/tenor.gif" height="5" style="border: none; margin: 0; padding: 0;"><img src="https://c.tenor.com/mc9-3cypZEYAAAAC/tenor.gif" height="5" style="border: none; margin: 0; padding: 0;">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="5" style="border: none; margin: 0; padding: 0; max-width: 100%;">
 </p>
+<br>
 
 
 
@@ -56,10 +57,10 @@
       <img src="https://badge.mediaplus.ma/colorfulwaves/bepoisso?1337Badge=off&UM6P=off" alt="bepoisso's 42 stats" />
     </a>
   </div>
-
 <br>
-  <p align="center" style="margin: 10; padding: 0; text-align: center;">
-  <img src="https://c.tenor.com/mc9-3cypZEYAAAAC/tenor.gif" height="5" style="border: none; margin: 0; padding: 0;"><img src="https://c.tenor.com/mc9-3cypZEYAAAAC/tenor.gif" height="5" style="border: none; margin: 0; padding: 0;"><img src="https://c.tenor.com/mc9-3cypZEYAAAAC/tenor.gif" height="5" style="border: none; margin: 0; padding: 0;">
+<br>
+<p align="center" style="margin: 10; padding: 0; text-align: center;">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="5" style="border: none; margin: 0; padding: 0;">
 </p>
 <br>
 
@@ -86,8 +87,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="bash logo"  />
 </div>
 <br>
+<br>
 <p align="center" style="margin: 10; padding: 0; text-align: center;">
-  <img src="https://c.tenor.com/mc9-3cypZEYAAAAC/tenor.gif" height="5" style="border: none; margin: 0; padding: 0;"><img src="https://c.tenor.com/mc9-3cypZEYAAAAC/tenor.gif" height="5" style="border: none; margin: 0; padding: 0;"><img src="https://c.tenor.com/mc9-3cypZEYAAAAC/tenor.gif" height="5" style="border: none; margin: 0; padding: 0;">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="5" style="border: none; margin: 0; padding: 0;">
 </p>
 <br>
 
@@ -114,8 +116,9 @@
   </a>
 </div>
 <br>
+<br>
 <p align="center" style="margin: 10; padding: 0; text-align: center;">
-  <img src="https://c.tenor.com/mc9-3cypZEYAAAAC/tenor.gif" height="5" style="border: none; margin: 0; padding: 0;"><img src="https://c.tenor.com/mc9-3cypZEYAAAAC/tenor.gif" height="5" style="border: none; margin: 0; padding: 0;"><img src="https://c.tenor.com/mc9-3cypZEYAAAAC/tenor.gif" height="5" style="border: none; margin: 0; padding: 0;">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="5" style="border: none; margin: 0; padding: 0;">
 </p>
 <br>
 
@@ -135,6 +138,7 @@
 <br clear="both">
 <h3 align="left">🐍__MY_COMMIT__🐍</h3>
 <img src="https://raw.githubusercontent.com/Benjamin-poisson/Benjamin-poisson/output/snake.svg" alt="Snake animation" />
+
 ###
 
 <div align="center">
@@ -145,6 +149,6 @@
 
 <br>
 <p align="center" style="margin: 10; padding: 0; text-align: center;">
-  <img src="https://c.tenor.com/mc9-3cypZEYAAAAC/tenor.gif" height="5" style="border: none; margin: 0; padding: 0;"><img src="https://c.tenor.com/mc9-3cypZEYAAAAC/tenor.gif" height="5" style="border: none; margin: 0; padding: 0;"><img src="https://c.tenor.com/mc9-3cypZEYAAAAC/tenor.gif" height="5" style="border: none; margin: 0; padding: 0;">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="5" style="border: none; margin: 0; padding: 0;">
 </p>
 <br>
