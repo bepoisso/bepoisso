@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Benjamin and I'm a new 42 student,  from France.</h2>
+<h1 align="center">Hi 👋! My name is Benjamin and I'm a new 42 student,  from France.</h2>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">__ABOUT_ME__</h4>
+<h2 align="left">💬__ABOUT_ME__💬</h2>
 
 ###
 
@@ -35,7 +35,7 @@
 <br>
 <br>
 
-<h4 align="left">__LEARNING__</h4>
+<h2 align="left">👨🏻‍🎓__LEARNING__👨🏻‍🎓</h2>
 
 ###
 
@@ -59,28 +59,31 @@
 
 ###
 
-<h4 align="left">__SOCIALS_MEDIA__</h4>
+<h2 align="left">📨__SOCIALS_MEDIA__📨</h2>
 
 ###
 
 <div align="center">
   <a href="https://discord.gg/tqhUGtgnGT" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    <img src="https://a11ybadges.com/badge?logo=discord" height="33" alt="discord logo"  />
   </a>
   <a href="https://paypal.me/flitchertv" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
+    <img src="https://a11ybadges.com/badge?logo=paypal" height="33" alt="paypal logo"  />
   </a>
   <a href="https://www.twitch.tv/flitcher" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+    <img src="https://a11ybadges.com/badge?logo=twitch" height="33" alt="twitch logo"  />
   </a>
   <a href="https://www.instagram.com/benjii_psn/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://a11ybadges.com/badge?logo=instagram" height="33" alt="instagram logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0" target="_blank">
+    <img src="https://a11ybadges.com/badge?logo=onlyfans" height="33" alt="instagram logo"  />
+  <img src="https://a11ybadges.com/badge?logo=linkedin" height="33" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
-<h4 align="left">__STATS__</h4>
+<h2 align="left">🔧__STATS__🔧</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Benjamin-poisson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Benjamin-poisson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
