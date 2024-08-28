@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="400" src="https://swiftui-lab.com/wp-content/uploads/2021/08/canvas-2.png"  />
+  <img height="275" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif"  />
 </div>
 
 ###
