@@ -1,3 +1,11 @@
+<br clear="both">
+
+<div align="center">
+  <img height="400" src="https://swiftui-lab.com/wp-content/uploads/2021/08/canvas-2.png"  />
+</div>
+
+###
+
 <h1 align="center">Hi 👋! My name is Benjamin and I'm a new 42 student,  from France.</h2>
 
 ###
