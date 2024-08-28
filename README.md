@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="center">💬__ABOUT_ME__💬</h2>
+<h3 align="center">💬__ABOUT_ME__💬</h3>
 
 ###
 
@@ -43,9 +43,29 @@
 <br>
 <br>
 
-<h2 align="center">👨🏻‍🎓__LEARNING__👨🏻‍🎓</h2>
+<p align="center" style="margin: 10; padding: 0; text-align: center;">
+  <img src="https://c.tenor.com/mc9-3cypZEYAAAAC/tenor.gif" height="5" style="border: none; margin: 0; padding: 0;"><img src="https://c.tenor.com/mc9-3cypZEYAAAAC/tenor.gif" height="5" style="border: none; margin: 0; padding: 0;"><img src="https://c.tenor.com/mc9-3cypZEYAAAAC/tenor.gif" height="5" style="border: none; margin: 0; padding: 0;">
+</p>
+
+
+
+  <h3 align="center">📡__42_PROFIL__📡</h3>
+  <br>
+  <div align= "center">
+    <a href="https://github.com/oakoudad/badge42">
+      <img src="https://badge.mediaplus.ma/colorfulwaves/bepoisso?1337Badge=off&UM6P=off" alt="bepoisso's 42 stats" />
+    </a>
+  </div>
+
+<br>
+  <p align="center" style="margin: 10; padding: 0; text-align: center;">
+  <img src="https://c.tenor.com/mc9-3cypZEYAAAAC/tenor.gif" height="5" style="border: none; margin: 0; padding: 0;"><img src="https://c.tenor.com/mc9-3cypZEYAAAAC/tenor.gif" height="5" style="border: none; margin: 0; padding: 0;"><img src="https://c.tenor.com/mc9-3cypZEYAAAAC/tenor.gif" height="5" style="border: none; margin: 0; padding: 0;">
+</p>
+<br>
 
 ###
+<h3 align="center">👨🏻‍🎓__LEARNING__👨🏻‍🎓</h3>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
   <img width="12" />
@@ -65,12 +85,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="bash logo"  />
 </div>
+<br>
+<p align="center" style="margin: 10; padding: 0; text-align: center;">
+  <img src="https://c.tenor.com/mc9-3cypZEYAAAAC/tenor.gif" height="5" style="border: none; margin: 0; padding: 0;"><img src="https://c.tenor.com/mc9-3cypZEYAAAAC/tenor.gif" height="5" style="border: none; margin: 0; padding: 0;"><img src="https://c.tenor.com/mc9-3cypZEYAAAAC/tenor.gif" height="5" style="border: none; margin: 0; padding: 0;">
+</p>
+<br>
 
 ###
 
-<h2 align="center">📨__SOCIALS_MEDIA__📨</h2>
-
-###
+<h3 align="center">📨__SOCIALS_MEDIA__📨</h3>
 
 <div align="center">
   <a href="https://discord.gg/tqhUGtgnGT" target="_blank">
@@ -90,9 +113,14 @@
   <img src="https://a11ybadges.com/badge?logo=linkedin" height="33" alt="linkedin logo"  />
   </a>
 </div>
+<br>
+<p align="center" style="margin: 10; padding: 0; text-align: center;">
+  <img src="https://c.tenor.com/mc9-3cypZEYAAAAC/tenor.gif" height="5" style="border: none; margin: 0; padding: 0;"><img src="https://c.tenor.com/mc9-3cypZEYAAAAC/tenor.gif" height="5" style="border: none; margin: 0; padding: 0;"><img src="https://c.tenor.com/mc9-3cypZEYAAAAC/tenor.gif" height="5" style="border: none; margin: 0; padding: 0;">
+</p>
+<br>
 
 ###
-<h2 align="center">🔧__STATS__🔧</h2>
+<h3 align="center">🔧__STATS__🔧</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Benjamin-poisson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Benjamin-poisson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -101,12 +129,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Benjamin-poisson&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+
 ###
 
 <br clear="both">
-<h2 align="left">🐍__MY_COMMIT__🐍</h2>
+<h3 align="left">🐍__MY_COMMIT__🐍</h3>
 <img src="https://raw.githubusercontent.com/Benjamin-poisson/Benjamin-poisson/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
@@ -114,3 +142,9 @@
 </div>
 
 ###
+
+<br>
+<p align="center" style="margin: 10; padding: 0; text-align: center;">
+  <img src="https://c.tenor.com/mc9-3cypZEYAAAAC/tenor.gif" height="5" style="border: none; margin: 0; padding: 0;"><img src="https://c.tenor.com/mc9-3cypZEYAAAAC/tenor.gif" height="5" style="border: none; margin: 0; padding: 0;"><img src="https://c.tenor.com/mc9-3cypZEYAAAAC/tenor.gif" height="5" style="border: none; margin: 0; padding: 0;">
+</p>
+<br>
