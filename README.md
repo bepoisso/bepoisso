@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="300" src="https://framerusercontent.com/images/cMNs9vhZgSbWxUtIms7P17NYtVw.gif"  />
+<img align="right" height="200" src="https://framerusercontent.com/images/cMNs9vhZgSbWxUtIms7P17NYtVw.gif"  />
 
 ###
 
