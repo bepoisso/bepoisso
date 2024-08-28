@@ -12,7 +12,7 @@
 
 <p align="left">
   - 👨‍💻 All of my 42 projects are on my <a href="https://github.com/Benjamin-poisson?tab=repositories">GitHub repos</a><br><br>
-  - 🔭 I’m currently working on <a href="https://github.com/Benjamin-poisson/42-get_next_line">42-Get_next_line</a><br><br>
+  - 🔭 I’m currently working on <a href="https://github.com/Benjamin-poisson/42-Push-swap.git">42-Push-swap</a><br><br>
   - 💬 Ask me about 42-Piscine<br><br>
   - 📫 How to reach me <a href="mailto:bepoisso@student.42perpignan.fr">bepoisso@student.42perpignan.fr</a>
 </p>
