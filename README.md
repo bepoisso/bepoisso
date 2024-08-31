@@ -20,7 +20,7 @@
 
 <p align="left">
   - 👨‍💻 All of my 42 projects are on my <a href="https://github.com/Benjamin-poisson?tab=repositories">GitHub repos</a><br><br>
-  - 🔭 I’m currently working on <a href="https://github.com/Benjamin-poisson/42-Push-swap.git">42-Push-swap</a><br><br>
+  - 🔭 I’m currently working on <a href="https://github.com/Benjamin-poisson/42-Push-swap.git">42-Push-swap</a> and <a href="https://github.com/Benjamin-poisson/42-So_long.git">42-So_long</a><br><br>
   - 💬 Ask me about 42-Piscine<br><br>
   - 📫 How to reach me <a href="mailto:bepoisso@student.42perpignan.fr">bepoisso@student.42perpignan.fr</a>
 </p>
@@ -136,6 +136,9 @@
   </a>
   <a href="https://github.com/Benjamin-poisson/42-Push-swap/" target="_blank">
     <img height="200" src="https://cdn.discordapp.com/attachments/783829038665433099/1278725894885736498/Black_And_White_Modern_Typographic_Simple_Virus_Apparel_Logo_3.png?ex=66d1d9ca&is=66d0884a&hm=a57c1773f88d31a0ba6943f4ff07a34feec02d8213054e33b2fc3c4287c25b3b&" />
+  </a>
+  <a href="https://github.com/Benjamin-poisson/42-So_long/" target="_blank">
+    <img height="200" src="https://cdn.discordapp.com/attachments/783829038665433099/1279450840079269928/Black_And_White_Modern_Typographic_Simple_Virus_Apparel_Logo_4.png?ex=66d47cf3&is=66d32b73&hm=420e0609bb634e0e417fa82c3f9a2381498bf31dc6fbf7469ca6e877932de406&" />
   </a>
 </div>
 
