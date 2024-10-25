@@ -126,19 +126,19 @@
 <h3 align="center">📁__PROJECT__📁</h3>
 <div align="center">
   <a href="https://github.com/Benjamin-poisson/42-libft/" target="_blank">
-    <img height="200" src="https://imgur.com/AcfrO9L" />
+    <img height="200" src="https://imgur.com/AcfrO9L.png" />
   </a>
   <a href="https://github.com/Benjamin-poisson/42-ft_printf/" target="_blank">
-    <img height="200" src="https://imgur.com/S1RtN11" />
+    <img height="200" src="https://imgur.com/S1RtN11.png" />
   </a>
   <a href="https://github.com/Benjamin-poisson/42-get_next_line/" target="_blank">
-    <img height="200" src="https://imgur.com/IUZbcSg" />
+    <img height="200" src="https://imgur.com/IUZbcSg.png" />
   </a>
   <a href="https://github.com/Benjamin-poisson/42-Push-swap/" target="_blank">
-    <img height="200" src="https://imgur.com/bs9ZnXI" />
+    <img height="200" src="https://imgur.com/bs9ZnXI.png" />
   </a>
   <a href="https://github.com/Benjamin-poisson/42-So_long/" target="_blank">
-    <img height="200" src="https://imgur.com/0tZNo7e" />
+    <img height="200" src="https://imgur.com/0tZNo7e.png" />
   </a>
 </div>
 
