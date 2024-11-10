@@ -126,22 +126,22 @@
 <h3 align="center">📁__PROJECT__📁</h3>
 <div align="center">
   <a href="https://github.com/Benjamin-poisson/42-libft/" target="_blank">
-    <img height="200" src="https://imgur.com/AcfrO9L.png" />
+    <img height="200" src="https://raw.githubusercontent.com/Benjamin-poisson/My_image_bank/refs/heads/main/libft.png" />
   </a>
   <a href="https://github.com/Benjamin-poisson/42-ft_printf/" target="_blank">
-    <img height="200" src="https://imgur.com/S1RtN11.png" />
+    <img height="200" src="https://raw.githubusercontent.com/Benjamin-poisson/My_image_bank/refs/heads/main/printf.png" />
   </a>
   <a href="https://github.com/Benjamin-poisson/42-get_next_line/" target="_blank">
-    <img height="200" src="https://imgur.com/IUZbcSg.png" />
+    <img height="200" src="https://raw.githubusercontent.com/Benjamin-poisson/My_image_bank/refs/heads/main/gnl.png" />
   </a>
   <a href="https://github.com/Benjamin-poisson/42-Born2beroot/" target="_blank">
-    <img height="200" src="https://imgur.com/oAW0x90.png" />
+    <img height="200" src="https://raw.githubusercontent.com/Benjamin-poisson/My_image_bank/refs/heads/main/bnorn2beroot.png" />
   </a>
-  <a href="https://github.com/Benjamin-poisson/42-Push-swap/" target="_blank">
-    <img height="200" src="https://imgur.com/bs9ZnXI.png" />
+ <a href="https://github.com/Benjamin-poisson/42-Push-swap/" target="_blank">
+    <img height="200" src="https://raw.githubusercontent.com/Benjamin-poisson/My_image_bank/refs/heads/main/pushswap.png" />
   </a>
   <a href="https://github.com/Benjamin-poisson/42-So_long/" target="_blank">
-    <img height="200" src="https://imgur.com/0tZNo7e.png" />
+    <img height="200" src="https://raw.githubusercontent.com/Benjamin-poisson/My_image_bank/refs/heads/main/so_long.png" />
   </a>
 </div>
 
