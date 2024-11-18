@@ -19,8 +19,8 @@
 ###
 
 <p align="left">
-  - 👨‍💻 All of my 42 projects are on my <a href="https://github.com/bepoisson?tab=repositories">GitHub repos</a><br><br>
-  - 🔭 I’m currently working on <a href="https://github.com/bepoisson/42-So_long.git">42-So_long</a><br><br>
+  - 👨‍💻 All of my 42 projects are on my <a href="https://github.com/bepoisso?tab=repositories">GitHub repos</a><br><br>
+  - 🔭 I’m currently working on <a href="https://github.com/bepoisso/42-So_long.git">42-So_long</a><br><br>
   - 💬 Ask me about 42-Piscine<br><br>
   - 📫 How to reach me <a href="mailto:bepoisso@student.42perpignan.fr">bepoisso@student.42perpignan.fr</a>
 </p>
@@ -125,23 +125,23 @@
 ###
 <h3 align="center">📁__PROJECT__📁</h3>
 <div align="center">
-  <a href="https://github.com/bepoisson/42-libft/" target="_blank">
-    <img height="200" src="https://raw.githubusercontent.com/bepoisson/My_image_bank/refs/heads/main/libft.png" />
+  <a href="https://github.com/bepoisso/42-libft/" target="_blank">
+    <img height="200" src="https://raw.githubusercontent.com/bepoisso/My_image_bank/refs/heads/main/libft.png" />
   </a>
-  <a href="https://github.com/bepoisson/42-ft_printf/" target="_blank">
-    <img height="200" src="https://raw.githubusercontent.com/bepoisson/My_image_bank/refs/heads/main/printf.png" />
+  <a href="https://github.com/bepoisso/42-ft_printf/" target="_blank">
+    <img height="200" src="https://raw.githubusercontent.com/bepoisso/My_image_bank/refs/heads/main/printf.png" />
   </a>
-  <a href="https://github.com/bepoisson/42-get_next_line/" target="_blank">
-    <img height="200" src="https://raw.githubusercontent.com/bepoisson/My_image_bank/refs/heads/main/gnl.png" />
+  <a href="https://github.com/bepoisso/42-get_next_line/" target="_blank">
+    <img height="200" src="https://raw.githubusercontent.com/bepoisso/My_image_bank/refs/heads/main/gnl.png" />
   </a>
-  <a href="https://github.com/bepoisson/42-Born2beroot/" target="_blank">
-    <img height="200" src="https://raw.githubusercontent.com/bepoisson/My_image_bank/refs/heads/main/bnorn2beroot.png" />
+  <a href="https://github.com/bepoisso/42-Born2beroot/" target="_blank">
+    <img height="200" src="https://raw.githubusercontent.com/bepoisso/My_image_bank/refs/heads/main/bnorn2beroot.png" />
   </a>
- <a href="https://github.com/bepoisson/42-Push-swap/" target="_blank">
-    <img height="200" src="https://raw.githubusercontent.com/bepoisson/My_image_bank/refs/heads/main/pushswap.png" />
+ <a href="https://github.com/bepoisso/42-Push-swap/" target="_blank">
+    <img height="200" src="https://raw.githubusercontent.com/bepoisso/My_image_bank/refs/heads/main/pushswap.png" />
   </a>
-  <a href="https://github.com/bepoisson/42-So_long/" target="_blank">
-    <img height="200" src="https://raw.githubusercontent.com/bepoisson/My_image_bank/refs/heads/main/so_long.png" />
+  <a href="https://github.com/bepoisso/42-So_long/" target="_blank">
+    <img height="200" src="https://raw.githubusercontent.com/bepoisso/My_image_bank/refs/heads/main/so_long.png" />
   </a>
 </div>
 
@@ -155,11 +155,11 @@
 ###
 <h3 align="center">🔧__STATS__🔧</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bepoisson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bepoisson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=bepoisson&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=bepoisson&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bepoisson&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=bepoisso&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bepoisso&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=bepoisso&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=bepoisso&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bepoisso&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 
@@ -167,12 +167,12 @@
 
 <br clear="both">
 <h3 align="left">🐍__MY_COMMIT__🐍</h3>
-<img src="https://raw.githubusercontent.com/bepoisson/bepoisson/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/bepoisso/bepoisso/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/bepoisson/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/bepoisso/count.svg?"  />
 </div>
 
 ###
