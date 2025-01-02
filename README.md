@@ -20,7 +20,7 @@
 
 <p align="left">
   - 👨‍💻 All of my 42 projects are on my <a href="https://github.com/bepoisso?tab=repositories">GitHub repos</a><br><br>
-  - 🔭 I’m currently working on <a href="https://github.com/bepoisso/42-Push-swap/">42-Push-swap</a><br><br>
+  - 🔭 I’m currently working on <a href="https://github.com/bepoisso/42-Push-pipex/">42-Push-pipex</a><br><br>
   - 💬 Ask me about 42-Piscine<br><br>
   - 📫 How to reach me <a href="mailto:bepoisso@student.42perpignan.fr">bepoisso@student.42perpignan.fr</a>
 </p>
