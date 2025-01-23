@@ -143,6 +143,9 @@
   <a href="https://github.com/bepoisso/42-So_long/" target="_blank">
     <img height="200" src="https://raw.githubusercontent.com/bepoisso/My_image_bank/refs/heads/main/so_long.png" />
   </a>
+  <a href="https://github.com/bepoisso/42-Pipex/" target="_blank">
+    <img height="200" src="https://raw.githubusercontent.com/bepoisso/My_image_bank/refs/heads/main/pipex.png" />
+  </a>
 </div>
 
 <br>
