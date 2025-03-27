@@ -149,6 +149,9 @@
   <a href="https://github.com/bepoisso/42-Philosophers/" target="_blank">
     <img height="200" src="https://raw.githubusercontent.com/bepoisso/My_image_bank/refs/heads/main/philosophers.png" />
   </a>
+   <a href="https://github.com/bepoisso/42-Minishell/" target="_blank">
+    <img height="200" src="https://raw.githubusercontent.com/bepoisso/My_image_bank/refs/heads/main/minishell.png" />
+  </a>
 </div>
 
 <br>
