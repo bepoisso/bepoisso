@@ -152,6 +152,10 @@
    <a href="https://github.com/bepoisso/42-Minishell/" target="_blank">
     <img height="200" src="https://raw.githubusercontent.com/bepoisso/My_image_bank/refs/heads/main/minishell.png" />
   </a>
+  </a>
+   <a href="https://github.com/bepoisso/42-NetPractice/" target="_blank">
+    <img height="200" src="https://raw.githubusercontent.com/bepoisso/My_image_bank/refs/heads/main/netpractice.png" />
+  </a>
 </div>
 
 <br>
