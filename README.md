@@ -20,7 +20,7 @@
 
 <p align="left">
   - 👨‍💻 All of my 42 projects are on my <a href="https://github.com/bepoisso?tab=repositories">GitHub repos</a><br><br>
-  - 🔭 I’m currently working on <a href="https://github.com/bepoisso/42-NetPractice/">42-NetPractice</a><br><br>
+  - 🔭 I’m currently working on <a href="https://github.com/bepoisso/42-NetPractice/">42-NetPractice</a> and <a href="https://github.com/bepoisso/42-Cub3d">42-Cub3D</a><br><br>
   - 💬 Ask me about 42-Piscine<br><br>
   - 📫 How to reach me <a href="mailto:bepoisso@student.42perpignan.fr">bepoisso@student.42perpignan.fr</a>
 </p>
