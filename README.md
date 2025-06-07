@@ -197,3 +197,12 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="5" style="border: none; margin: 0; padding: 0;">
 </p>
 <br>
+
+
+## Disclamer
+- 🇬🇧 All my 42 projects has an educational purpose and you should under no circumstances copy and paste. Cheat is bad. Dont cheat
+
+- 🇫🇷 Tout mes projets 42 sont a un but educatif et vous ne devez en auccun cas faire du copier coller. Tricher c'est mal. Ne trichez pas
+
+----
+©42Perpignan(bepoisso)
