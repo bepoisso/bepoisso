@@ -98,21 +98,24 @@
 <h3 align="center">📨__SOCIALS_MEDIA__📨</h3>
 
 <div align="center">
-  <a href="https://discord.gg/tqhUGtgnGT" target="_blank">
-    <img src="https://a11ybadges.com/badge?logo=discord" height="33" alt="discord logo"  />
+  <a href="https://www.linkedin.com/in/benjamin-poisson-783400176/" target="_blank">
+    <img src="https://a11ybadges.com/badge?logo=linkedin" height="33" alt="instagram logo"  />
   </a>
-  <a href="https://paypal.me/flitchertv" target="_blank">
-    <img src="https://a11ybadges.com/badge?logo=paypal" height="33" alt="paypal logo"  />
-  </a>
-  <a href="https://www.twitch.tv/flitcher" target="_blank">
-    <img src="https://a11ybadges.com/badge?logo=twitch" height="33" alt="twitch logo"  />
-  </a>
+
   <a href="https://www.instagram.com/benjii_psn/" target="_blank">
     <img src="https://a11ybadges.com/badge?logo=instagram" height="33" alt="instagram logo"  />
   </a>
+
+  <a href="https://paypal.me/flitchertv" target="_blank">
+    <img src="https://a11ybadges.com/badge?logo=paypal" height="33" alt="paypal logo"  />
+  </a>
+  
+  <a href="https://www.twitch.tv/flitcher" target="_blank">
+    <img src="https://a11ybadges.com/badge?logo=twitch" height="33" alt="twitch logo"  />
+  </a>
+    
   <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0" target="_blank">
     <img src="https://a11ybadges.com/badge?logo=onlyfans" height="33" alt="instagram logo"  />
-  <img src="https://a11ybadges.com/badge?logo=linkedin" height="33" alt="linkedin logo"  />
   </a>
 </div>
 <br>
