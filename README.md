@@ -161,6 +161,15 @@
    <a href="https://github.com/bepoisso/42-NetPractice/" target="_blank">
     <img height="200" src="https://raw.githubusercontent.com/bepoisso/My_image_bank/refs/heads/main/netpractice.png" />
   </a>
+  <a href="https://github.com/bepoisso/42-CPP-Modules/" target="_blank">
+    <img height="200" src="https://raw.githubusercontent.com/bepoisso/My_image_bank/refs/heads/main/cpp.png" />
+  </a>
+  <a href="https://github.com/bepoisso/42-IRC/" target="_blank">
+    <img height="200" src="https://raw.githubusercontent.com/bepoisso/My_image_bank/refs/heads/main/irc.png" />
+  </a>
+  <a href="#" target="_blank">
+    <img height="200" src="https://raw.githubusercontent.com/bepoisso/My_image_bank/refs/heads/main/transcendence.png" />
+  </a>
 </div>
 
 <br>
