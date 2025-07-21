@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Hi 👋! My name is Benjamin and I'm a new 42 student,  from France.</h2>
+<h1 align="center">Hi 👋! My name is Benjamin and I'm a 42 student,  from France.</h2>
 
 ###
 
