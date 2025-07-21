@@ -193,11 +193,16 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bepoisso&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+<br>
+<p align="center" style="margin: 10; padding: 0; text-align: center;">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="5" style="border: none; margin: 0; padding: 0;">
+</p>
+<br>
 
 ###
 
 <br clear="both">
-<h3 align="left">🐍 MY_COMMIT 🐍</h3>
+<h3 align="center">🐍 MY_COMMIT 🐍</h3>
 <img src="https://raw.githubusercontent.com/bepoisso/bepoisso/output/snake.svg" alt="Snake animation" />
 
 ###
