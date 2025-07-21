@@ -14,13 +14,13 @@
 
 ###
 
-<h3 align="center">💬__ABOUT_ME__💬</h3>
+<h3 align="center">💬 ABOUT_ME 💬</h3>
 
 ###
 
 <p align="left">
   - 👨‍💻 All of my 42 projects are on my <a href="https://github.com/bepoisso?tab=repositories">GitHub repos</a><br><br>
-  - 🔭 I’m currently working on <a href="">ft_transcendence</a><br><br>
+  - 🔭 I’m currently working on <a href="https://github.com/mathisdev7/ft_transcendence/">ft_transcendence</a><br><br>
   - 💬 Ask me about 42-Piscine<br><br>
   - 📫 How to reach me <a href="mailto:contact@bpoisson.com">contact@bpoisson.com</a>
 </p>
@@ -50,7 +50,7 @@
 
 
 
-  <h3 align="center">📡__42_PROFIL__📡</h3>
+  <h3 align="center">📡 42_PROFIL 📡</h3>
   <br>
   <div align= "center">
     <a href="https://github.com/oakoudad/badge42">
@@ -65,14 +65,27 @@
 <br>
 
 ###
-<h3 align="center">👨🏻‍🎓__LEARNING__👨🏻‍🎓</h3>
+<h3 align="center">👨🏻‍🎓 SKILLS & LEARNING👨🏻‍🎓</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="50" alt="vim logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://icon.icepanel.io/Technology/svg/Docker.svg" height="50" alt="docker logo"  />
+  <img width="12" />
+</div>
+<br>
+<div align="center">
+  <img src="https://icon.icepanel.io/Technology/svg/C.svg" height="50" alt="c logo"  />
+  <img width="12" />
+  <img src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg" height="50" alt="c++ logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
   <img width="12" />
@@ -80,11 +93,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
+  <img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" height="50" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
+  <img src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" height="50" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="bash logo"  />
 </div>
 <br>
 <br>
@@ -95,27 +107,20 @@
 
 ###
 
-<h3 align="center">📨__SOCIALS_MEDIA__📨</h3>
+<h3 align="center">📨 SOCIALS_MEDIA 📨</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/benjamin-poisson-783400176/" target="_blank">
     <img src="https://a11ybadges.com/badge?logo=linkedin" height="33" alt="instagram logo"  />
   </a>
-
   <a href="https://www.instagram.com/benjii_psn/" target="_blank">
     <img src="https://a11ybadges.com/badge?logo=instagram" height="33" alt="instagram logo"  />
   </a>
-
   <a href="https://paypal.me/flitchertv" target="_blank">
     <img src="https://a11ybadges.com/badge?logo=paypal" height="33" alt="paypal logo"  />
   </a>
-  
   <a href="https://www.twitch.tv/flitcher" target="_blank">
     <img src="https://a11ybadges.com/badge?logo=twitch" height="33" alt="twitch logo"  />
-  </a>
-    
-  <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0" target="_blank">
-    <img src="https://a11ybadges.com/badge?logo=onlyfans" height="33" alt="instagram logo"  />
   </a>
 </div>
 <br>
@@ -126,7 +131,7 @@
 <br>
 
 ###
-<h3 align="center">📁__PROJECT__📁</h3>
+<h3 align="center">📁 PROJECT 📁</h3>
 <div align="center">
   <a href="https://github.com/bepoisso/42-libft/" target="_blank">
     <img height="200" src="https://raw.githubusercontent.com/bepoisso/My_image_bank/refs/heads/main/libft.png" />
@@ -171,7 +176,6 @@
     <img height="200" src="https://raw.githubusercontent.com/bepoisso/My_image_bank/refs/heads/main/transcendence.png" />
   </a>
 </div>
-
 <br>
 <br>
 <p align="center" style="margin: 10; padding: 0; text-align: center;">
@@ -180,7 +184,7 @@
 <br>
 
 ###
-<h3 align="center">🔧__STATS__🔧</h3>
+<h3 align="center">🔧 STATS 🔧</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bepoisso&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bepoisso&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -193,7 +197,7 @@
 ###
 
 <br clear="both">
-<h3 align="left">🐍__MY_COMMIT__🐍</h3>
+<h3 align="left">🐍 MY_COMMIT 🐍</h3>
 <img src="https://raw.githubusercontent.com/bepoisso/bepoisso/output/snake.svg" alt="Snake animation" />
 
 ###
