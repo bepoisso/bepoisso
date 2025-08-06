@@ -172,7 +172,7 @@
   <a href="https://github.com/bepoisso/42-IRC/" target="_blank">
     <img height="200" src="https://raw.githubusercontent.com/bepoisso/My_image_bank/refs/heads/main/irc.png" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://github.com/bepoisso/42-ft_transcendence" target="_blank">
     <img height="200" src="https://raw.githubusercontent.com/bepoisso/My_image_bank/refs/heads/main/transcendence.png" />
   </a>
 </div>
