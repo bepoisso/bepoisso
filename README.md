@@ -20,7 +20,7 @@
 
 <p align="left">
   - 👨‍💻 All of my 42 projects are on my <a href="https://github.com/bepoisso?tab=repositories">GitHub repos</a><br><br>
-  - 🔭 I’m currently searching for a stage 
+  - 🔭 I’m currently searching for a Work-study program
   <!-- <a href="https://github.com/bepoisso/42-ft_transcendence">ft_transcendence</a> -->
   <br><br>
   - 💬 Ask me about 42-Piscine<br><br>
