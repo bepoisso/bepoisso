@@ -186,11 +186,6 @@
 </p>
 <br>
 
-<br>
-<p align="center" style="margin: 10; padding: 0; text-align: center;">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="5" style="border: none; margin: 0; padding: 0;">
-</p>
-<br>
 ###
 <h3 align="center">📁 MASTERY PROJECTS 📁</h3>
 <div align="center">
@@ -198,6 +193,11 @@
     <img height="200" src="https://raw.githubusercontent.com/bepoisso/My_image_bank/refs/heads/main/piscine-object.png" />
   </a>
 
+<br>
+<p align="center" style="margin: 10; padding: 0; text-align: center;">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="5" style="border: none; margin: 0; padding: 0;">
+</p>
+<br>
 
 ###
 <h3 align="center">🔧 STATS 🔧</h3>
