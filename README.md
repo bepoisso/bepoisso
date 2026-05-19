@@ -189,7 +189,7 @@
 ###
 <h3 align="center">📁 MASTERY PROJECTS 📁</h3>
 <div align="center">
-<a href="[https://github.com/bepoisso/42-libft/](https://github.com/bepoisso/42-Piscine_Object)" target="_blank">
+<a href="https://github.com/bepoisso/42-Piscine_Object" target="_blank">
     <img height="200" src="https://raw.githubusercontent.com/bepoisso/My_image_bank/refs/heads/main/piscine-object.png" />
   </a>
 
