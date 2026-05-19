@@ -237,4 +237,4 @@
 - 🇫🇷 Tout mes projets 42 sont a un but educatif et vous ne devez en auccun cas faire du copier coller. Tricher c'est mal. Ne trichez pas
 
 ----
-©42Perpignan(bepoisso)
+©42Lyon(bepoisso)
