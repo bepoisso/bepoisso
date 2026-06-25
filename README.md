@@ -20,8 +20,8 @@
 
 <p align="left">
   - 👨‍💻 All of my 42 projects are on my <a href="https://github.com/bepoisso?tab=repositories">GitHub repos</a><br><br>
-  - 🔭 I’m currently searching for a Work-study program
-  <!-- <a href="https://github.com/bepoisso/42-ft_transcendence">ft_transcendence</a> -->
+  - 🔭 I’m currently working on 
+  <a href="https://github.com/bepoisso/42-avaj-launcher">avaj-launcher</a>
   <br><br>
   - 💬 Ask me about 42-Piscine<br><br>
   - 📫 How to reach me <a href="mailto:contact@bpoisson.com">contact@bpoisson.com</a>
